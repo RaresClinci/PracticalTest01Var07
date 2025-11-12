@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:saveEnabled="false"
-            android:enabled="false"
+            android:enabled="true"
             android:hint="Enter text here"
             android:inputType="textPersonName" />
 
@@ -29,7 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:saveEnabled="false"
-            android:enabled="false"
+            android:enabled="true"
             android:hint="Enter text here"
             android:inputType="textPersonName" />
         <EditText
@@ -37,14 +37,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:saveEnabled="false"
-            android:enabled="false"
+            android:enabled="true"
             android:hint="Enter text here"
             android:inputType="textPersonName" />
         <EditText
             android:id="@+id/text4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:saveEnabled="false"
+            android:saveEnabled="true"
             android:enabled="false"
             android:hint="Enter text here"
             android:inputType="textPersonName" />
